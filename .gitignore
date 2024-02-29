@@ -1,6 +1,6 @@
 
 /events
-/layers/.class
-/-lock.json
+/layers/*.class
+/*-lock.json
 /src/node_modules
 
